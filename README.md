@@ -20,8 +20,8 @@
 <br/>
 
   <div align='center'>
-    <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabrielAziz&show_icons=true&theme=dracula&card_width=400" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAziz&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=400" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=GabrielAziz&show_icons=true&theme=dracula&card_width=50%" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAziz&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=50%" />
   </div>
 
 ### Sobre Mim!
